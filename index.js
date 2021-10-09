@@ -9,6 +9,6 @@ console.log("\n Total Memory Of The Operating system : " + os.totalmem()/(1024*1
 
 console.log("\n Operating System Platform : " + os.platform());
 
-console.log("\n Display Information About The Current Looged User : " +os.userInfo());
+console.log("\n Display Information About The Current Looged User : ");
 
-// console.log(os.userInfo());
+console.log(os.userInfo());
